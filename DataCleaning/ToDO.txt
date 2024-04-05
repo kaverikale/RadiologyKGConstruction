@@ -1,0 +1,11 @@
+
+always add special characters in dictionary that are mandatory
+e. &, /, - etc.
+
+introduce 'of' preposition before measuring number
+eg. thin walled anechoic cyst 9 mm noted at interpole of left kidney.
+to 
+thin walled anechoic cyst of 9 mm noted at interpole of left kidney.
+
+Remove x.
+
